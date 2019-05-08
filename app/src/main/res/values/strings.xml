@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+    <string name="pilihnotebook">pengennyangmana</string>
+    <string name="radio_acer">acer</string>
+    <string name="radio_asus">asus</string>
+    <string name="radio_hp">HP</string>
+    <string name="radio_lenovo">lenovo</string>
+    <string name="jawab">cek_jawaban</string>
+</resources>
